@@ -1,0 +1,41 @@
+body {
+    margin: 10px;
+    font-family: Helvetica, sans-serif;
+    font-size: 100%;
+    background-color: rgb(166, 187, 200);
+}
+
+Img{
+    height: 250px; 
+    margin:0px;
+    border: 1px solid black;
+}
+
+h3{
+    font-size: medium;
+}
+
+#container{
+    border: 2px solid black;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#firstSection{
+    background-color: rgb(102, 120, 155);
+    width: 60%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+}
+
+#secoundSection{
+    background-color: rgb(110, 164, 155);
+    padding: 1rem;
+}
+
+a{
+    font-weight: bold;
+}
