@@ -1,0 +1,53 @@
+body{
+    font-family: Helvetica, sans-serif;
+    font-size: 100%;
+    background-color: rgb(190, 232, 224);
+}
+
+#container{
+    width: 85%;
+    margin: 0 auto;
+    background-color: rgb(151, 225, 212);
+    padding-bottom: 25px;
+}
+
+#links {
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(21, 146, 123);
+    color: white;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(13, 94, 79);
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+.button:hover {
+    background-color: rgb(8, 56, 47);
+}
+
+.website {
+    font-weight: bold;
+    font-size: 20px;
+    color:rgb(8, 56, 47)
+
+}
+
+.website:hover {
+    color: rgb(67, 159, 144);
+}
+
+h1{
+    font-size: 50px;
+}
+
+#websitePart{
+    padding-right: 30px;
+}
